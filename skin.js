@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.10/20025
 // Filename: ??? ???? VIORR 59B - ??.ggsk
-// Generated 2024-12-26T14:52:40
+// Generated 2024-12-26T15:18:53
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_minimap_button', 2, false, { ignoreInState: 0  });
@@ -2269,7 +2269,7 @@ function pano2vrSkin(player,base) {
 					((me.ggUserdata.tags.indexOf("\ub0ae") != -1))
 				)
 			) {
-				player.openNext("{node10}","$(cur)");
+				player.openNext("{node53}","$(cur)");
 			}
 			if (
 				(
@@ -2529,7 +2529,7 @@ function pano2vrSkin(player,base) {
 					((me.ggUserdata.tags.indexOf("\ub0ae") != -1))
 				)
 			) {
-				player.openNext("{node25}","$(cur)");
+				player.openNext("{node54}","$(cur)");
 			}
 			if (
 				(
@@ -4021,7 +4021,7 @@ function pano2vrSkin(player,base) {
 					((me.ggUserdata.tags.indexOf("\ubc24") != -1))
 				)
 			) {
-				player.openNext("{node10}","$(cur)");
+				player.openNext("{node53}","$(cur)");
 			}
 			if (
 				(
@@ -4031,7 +4031,7 @@ function pano2vrSkin(player,base) {
 					((me.ggUserdata.tags.indexOf("\ubc24") != -1))
 				)
 			) {
-				player.openNext("{node25}","$(cur)");
+				player.openNext("{node54}","$(cur)");
 			}
 			if (
 				(
@@ -12396,7 +12396,7 @@ function pano2vrSkin(player,base) {
 					((me.ggUserdata.tags.indexOf("\ub0ae") != -1))
 				)
 			) {
-				player.openNext("{node10}","$(cur)");
+				player.openNext("{node53}","$(cur)");
 			}
 			if (
 				(
@@ -12656,7 +12656,7 @@ function pano2vrSkin(player,base) {
 					((me.ggUserdata.tags.indexOf("\ub0ae") != -1))
 				)
 			) {
-				player.openNext("{node25}","$(cur)");
+				player.openNext("{node54}","$(cur)");
 			}
 			if (
 				(
@@ -13956,7 +13956,7 @@ function pano2vrSkin(player,base) {
 					((me.ggUserdata.tags.indexOf("\ubc24") != -1))
 				)
 			) {
-				player.openNext("{node10}","$(cur)");
+				player.openNext("{node53}","$(cur)");
 			}
 			if (
 				(
@@ -13966,7 +13966,7 @@ function pano2vrSkin(player,base) {
 					((me.ggUserdata.tags.indexOf("\ubc24") != -1))
 				)
 			) {
-				player.openNext("{node25}","$(cur)");
+				player.openNext("{node54}","$(cur)");
 			}
 			if (
 				(
