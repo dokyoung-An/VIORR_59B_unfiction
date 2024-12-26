@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.10/20025
 // Filename: ??? ???? VIORR 59B - ??.ggsk
-// Generated 2024-12-26T14:39:01
+// Generated 2024-12-26T14:52:40
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_minimap_button', 2, false, { ignoreInState: 0  });
@@ -18839,7 +18839,7 @@ function pano2vrSkin(player,base) {
 		el.ggHPercentVisible = 1.0;
 		el.ggIsDragging = false;
 		hs ='';
-		hs+='height : 400.31px;';
+		hs+='height : 399.31px;';
 		hs+='left : 0px;';
 		hs+='overflow-x : visible;';
 		hs+='overflow-y : visible;';
@@ -19378,7 +19378,7 @@ function pano2vrSkin(player,base) {
 		el.ggSubElement = els;
 		el.ggId="Image 2-m";
 		el.ggDx=0;
-		el.ggDy=0;
+		el.ggDy=-1;
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
 		el.ggVisible=true;
 		el.className="ggskin ggskin_image ";
@@ -19387,7 +19387,7 @@ function pano2vrSkin(player,base) {
 		hs+='height : 95%;';
 		hs+='left : calc(50% - ((100% + 0px) / 2) + 0px);';
 		hs+='position : absolute;';
-		hs+='top : calc(50% - ((95% + 0px) / 2) + 0px);';
+		hs+='top : calc(50% - ((95% + 0px) / 2) - 1px);';
 		hs+='visibility : inherit;';
 		hs+='width : 100%;';
 		hs+='pointer-events:auto;';
